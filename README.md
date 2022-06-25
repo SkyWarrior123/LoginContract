@@ -1,6 +1,6 @@
-# Basic Sample Hardhat Project
+# LoginContract
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+This project accesses private variables stored in the Blockchain through deployment of Smart Contract. It uses Solidity as a programming language to build up SmartContract and hardhat framework to test and debug the same. In this project I have also used ethers.js library to access private data from the smartContract.
 
 Try running some of the following tasks:
 
